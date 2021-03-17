@@ -1,5 +1,5 @@
 :root {
-    --primary-color: #990011FF;
+    --primary-color:#FF5757;
     --background-color: #f0f3f7;
     --secon-color: #9da2ad;
     --grey: #7a7a7b;
@@ -43,10 +43,9 @@ html {
     padding: 1rem;
 }
 
-.logo {
-    font-size: 1rem;
-    font-weight: 800;
-    color: var(--primary-color);
+.logo img{
+    width: 150px ;
+    height: 50px ;
 }
 .menu {
     display: flex;
